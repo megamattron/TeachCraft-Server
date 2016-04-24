@@ -1,0 +1,12 @@
+<ban>
+  <tableProperties>
+    <banningPlayer auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false" not-null="false" />
+    <ip auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <issuedDate auto-increment="false" data-type="LONG" column-type="NORMAL" is-list="false" not-null="false" />
+    <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <reason auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <unbanDate auto-increment="false" data-type="LONG" column-type="NORMAL" is-list="false" not-null="false" />
+    <uuid auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+  </tableProperties>
+</ban>

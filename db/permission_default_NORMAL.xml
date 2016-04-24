@@ -1,0 +1,9 @@
+<permission_default_NORMAL>
+  <tableProperties>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false" not-null="false" />
+    <owner auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <path auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <type auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <value auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false" not-null="false" />
+  </tableProperties>
+</permission_default_NORMAL>

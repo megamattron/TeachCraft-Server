@@ -1,0 +1,17 @@
+<warp>
+  <tableProperties>
+    <dimension auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="true" />
+    <groups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true" not-null="false" />
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false" not-null="false" />
+    <isPlayerHome auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false" not-null="false" />
+    <location auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="true" />
+    <owner auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <pitch auto-increment="false" data-type="FLOAT" column-type="NORMAL" is-list="false" not-null="true" />
+    <posX auto-increment="false" data-type="DOUBLE" column-type="NORMAL" is-list="false" not-null="true" />
+    <posY auto-increment="false" data-type="DOUBLE" column-type="NORMAL" is-list="false" not-null="true" />
+    <posZ auto-increment="false" data-type="DOUBLE" column-type="NORMAL" is-list="false" not-null="true" />
+    <rotation auto-increment="false" data-type="FLOAT" column-type="NORMAL" is-list="false" not-null="true" />
+    <world auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="true" />
+  </tableProperties>
+</warp>

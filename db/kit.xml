@@ -1,0 +1,10 @@
+<kit>
+  <tableProperties>
+    <groups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true" not-null="false" />
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false" not-null="false" />
+    <items auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true" not-null="false" />
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <owners auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true" not-null="false" />
+    <useDelay auto-increment="false" data-type="INTEGER" column-type="NORMAL" is-list="false" not-null="false" />
+  </tableProperties>
+</kit>

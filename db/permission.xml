@@ -1,0 +1,37 @@
+<permission>
+  <tableProperties>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false" not-null="false" />
+    <owner auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <path auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <type auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <value auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false" not-null="false" />
+  </tableProperties>
+  <entry>
+    <id>1</id>
+    <owner>admins</owner>
+    <path>*</path>
+    <type>group</type>
+    <value>true</value>
+  </entry>
+  <entry>
+    <id>2</id>
+    <owner>mods</owner>
+    <path>canary.super.ignoreRestrictions</path>
+    <type>group</type>
+    <value>true</value>
+  </entry>
+  <entry>
+    <id>3</id>
+    <owner>players</owner>
+    <path>canary.world.build</path>
+    <type>group</type>
+    <value>true</value>
+  </entry>
+  <entry>
+    <id>4</id>
+    <owner>visitors</owner>
+    <path>canary.world.build</path>
+    <type>group</type>
+    <value>true</value>
+  </entry>
+</permission>

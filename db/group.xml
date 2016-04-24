@@ -1,0 +1,42 @@
+<group>
+  <tableProperties>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false" not-null="false" />
+    <isDefault auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false" not-null="false" />
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <parent auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+    <world auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+  </tableProperties>
+  <entry>
+    <id>1</id>
+    <isDefault>false</isDefault>
+    <name>visitors</name>
+    <parent>visitors</parent>
+    <prefix>§7</prefix>
+    <world>null</world>
+  </entry>
+  <entry>
+    <id>2</id>
+    <isDefault>false</isDefault>
+    <name>players</name>
+    <parent>visitors</parent>
+    <prefix>§F</prefix>
+    <world>null</world>
+  </entry>
+  <entry>
+    <id>3</id>
+    <isDefault>false</isDefault>
+    <name>mods</name>
+    <parent>players</parent>
+    <prefix>§E</prefix>
+    <world>null</world>
+  </entry>
+  <entry>
+    <id>4</id>
+    <isDefault>true</isDefault>
+    <name>admins</name>
+    <parent>mods</parent>
+    <prefix>§C</prefix>
+    <world>null</world>
+  </entry>
+</group>
