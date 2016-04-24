@@ -9,7 +9,7 @@
   </tableProperties>
   <entry>
     <id>1</id>
-    <isDefault>false</isDefault>
+    <isDefault>true</isDefault>
     <name>visitors</name>
     <parent>visitors</parent>
     <prefix>§7</prefix>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <id>4</id>
-    <isDefault>true</isDefault>
+    <isDefault>false</isDefault>
     <name>admins</name>
     <parent>mods</parent>
     <prefix>§C</prefix>

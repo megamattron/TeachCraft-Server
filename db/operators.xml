@@ -3,20 +3,4 @@
     <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false" not-null="false" />
     <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
   </tableProperties>
-  <entry>
-    <id>1</id>
-    <player>3cc665fc-59d6-3ad7-9975-9be6c6ad15d8</player>
-  </entry>
-  <entry>
-    <id>2</id>
-    <player>0d468d0d-a550-3ae2-9c01-a77194a4dd7d</player>
-  </entry>
-  <entry>
-    <id>3</id>
-    <player>846da4bc-53bf-3e22-b2ad-4618172f331b</player>
-  </entry>
-  <entry>
-    <id>4</id>
-    <player>ee838dc7-8142-3974-98f3-76f98b8765e8</player>
-  </entry>
 </operators>

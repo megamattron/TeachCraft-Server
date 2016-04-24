@@ -35,13 +35,4 @@
     <subgroups />
     <uuid>d1c458d5-063a-3bf6-b6fb-87082abc5d37</uuid>
   </entry>
-  <entry>
-    <group>visitors</group>
-    <id>4</id>
-    <isMuted>false</isMuted>
-    <name>bobert</name>
-    <prefix>null</prefix>
-    <subgroups />
-    <uuid>e066570b-6743-3a11-b37d-87b2d07d259b</uuid>
-  </entry>
 </player>
