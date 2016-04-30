@@ -5,6 +5,12 @@ Launch multiplayer server by running this command in your terminal:
 java -Xms3036M -Xmx3036M -jar CanaryMod-1.2.0.jar
 ```
 
+Note: If this is the first time you're running the server, it will quit and leave a file called eula.txt in that directory. You need to edit this and change the last line to be:
+```
+eula=true
+```
+Then the server will start successfully.
+
 Now when you can connect to this server using Multiplayer -> Direct Connect -> 127.0.0.1
 
 ##### To Run Online
